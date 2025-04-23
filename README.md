@@ -2,9 +2,9 @@
 Alguns projetos para a disciplina de Projetos de Arquitetura de Software.
 
 # Calculadora Simples e Logging via AspectJ (Programação Orientada a Aspectos)
-Calculadora simples, estruturada com arquiterura em camadas baseada em MVC. 
+Calculadora simples estruturada com arquitetura em camadas baseada no padrão MVC (Model-View-Controller)
 
-<h2 id="structure"> Estrutura do Projeto:</h2>
+<h3 id="structure"> Estrutura do Projeto:</h3>
 
 ```bash
 aspectJCalculator/
